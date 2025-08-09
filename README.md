@@ -4,7 +4,7 @@
 
 ## Live site
 
-- **Vercal**: https://ecommerce-product-page-main-kf72f909z.vercel.app
+- **Vercal**: https://results-summary-component-main-ashy.vercel.app
 
 ## PC 💻
 
